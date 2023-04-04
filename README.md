@@ -1,3 +1,5 @@
+![img](https://github.com/asyncedd/dotted.kitty/blob/master/assets/mocha-R.png?raw=true)
+
 ## Spotted kitty
 My dotfiles for [kitty](https://sw.kovidgoyal.net/kitty/), since I always forget to not forget my kitty dotfiles.
 (TL;DR: My kitty dotfiles.)
